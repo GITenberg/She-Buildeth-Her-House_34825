@@ -1,0 +1,38 @@
+_repo: She-Buildeth-Her-House_34825
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Justice, Martin
+    aliases:
+    - Justine, Martin
+    - Justice, B. Martin
+    gutenberg_agent_id: '37259'
+    url: http://www.gutenberg.org/2009/agents/37259
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Comfort, Will Levington
+    birthdate: 1878
+    deathdate: 1932
+    gutenberg_agent_id: '2012'
+    url: http://www.gutenberg.org/2009/agents/2012
+description: ''
+gutenberg_issued: '2011-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34825'
+  lccn: '11013520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Critics -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Occultism -- Fiction'
+- !lcsh 'Love stories'
+title: She Buildeth Her House
+url: http://www.gutenberg.org/ebooks/34825
